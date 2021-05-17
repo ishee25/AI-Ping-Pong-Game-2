@@ -1,0 +1,72 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    width: 100%;
+    text-align: center;
+    color: white;
+    line-height: 3;
+    font-family: 'Itim', cursive;
+    background-color: rgb(233, 12, 78);
+}
+
+.heading2{
+    text-align: center;
+    color: white;
+    line-height: 3;
+    border-radius: 5px;
+    height: 43px;
+    background-color: rgb(233, 12, 78);
+}
+
+.heading h3{
+    display: inline;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start, #status, #restart{
+    font-size: 27px;
+    font-family: 'Cookie', cursive;
+}
+
+#start, #restart{
+    background-color: hotpink;
+    border-color: hotpink;
+}
+
+#status{
+    background-color: rgb(216, 31, 133);
+    border-color: rgb(216, 31, 133);;
+}
+
+.footer{
+    background-color: rgb(255, 123, 0);
+    color: white;
+    margin: 0px;
+    font-size: 25px;
+    line-height: 2;
+    font-family: 'Itim', cursive;
+}
+
+a{
+    color: black;
+}
+
+a:hover{
+    color: cyan;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+h4{
+    line-height: 2;
+    margin: 0px;
+    background-color: #f5f5f5;
+}
